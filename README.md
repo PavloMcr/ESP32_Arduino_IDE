@@ -31,16 +31,12 @@ This repository contains a collection of C++ test programs and prototypes develo
 - **wifi tests**  
   Basic Wi-Fi scanning, connection handling, and diagnostics for ESP32 connectivity evaluation.
 
-## 🛠️ Requirements
+## Requirements
 
 - **Hardware:** ESP32 Development Board  
 - **Software:** Arduino IDE with ESP32 board support  
 - **Libraries:** May require additional cryptographic and Wi-Fi libraries (e.g., `WiFi.h`, `mbedtls`, `Crypto.h`)
 
-## 🚧 Disclaimer
-
-This repository contains experimental code intended for testing and research purposes. It may not be production-ready or fully secure without further validation and optimization.
-
-## 📄 License
+## License
 
 MIT License (or specify your license if different).
