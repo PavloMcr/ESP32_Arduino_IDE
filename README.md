@@ -39,4 +39,4 @@ This repository contains a collection of C++ test programs and prototypes develo
 
 ## License
 
-MIT License (or specify your license if different).
+MIT License
